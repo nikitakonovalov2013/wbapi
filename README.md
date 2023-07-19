@@ -1,0 +1,2 @@
+# wbapi
+Python Wildberries API
